@@ -22,6 +22,9 @@ Paintball é um jogo que está sendo desenvolvido, em que dois jogadores control
 - Jogador 1: 🆆, 🅰, 🆂, 🅳  (Controla Jogador) / 🆀 (Atira)
 - Jogador 2: ⬆️ ⬇️ ⬅️ ➡️ (Controla Jogador) / Ctrl (Atira)
 
+# Como executar o projeto
+Pré-requisitos: Java Virtual Machine(JVM)
+
 # Autor
 
 João Carser
