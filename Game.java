@@ -1,5 +1,7 @@
 import java.awt.Color;
 import java.awt.Graphics;
+
+import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import java.awt.event.KeyListener;
 import java.awt.image.BufferedImage;
@@ -399,7 +401,10 @@ public class Game extends JPanel {
         double hT = Math.sqrt((chT * chT) + (cvT * cvT));
 
         if (hT <= tiro.raio + pers2.raio2) {
+            tiro.posX = 0;
+            tiro.posY = 0;
             tiro.visible = false;
+            JOptionPane.showMessageDialog(null, "Jogador VERDE abatido.");
         }
 
         // TESTE DE COLISAO ENTRE TIRO (DO 2 PARA 1)
@@ -408,7 +413,10 @@ public class Game extends JPanel {
         double hT2 = Math.sqrt((chT2 * chT2) + (cvT2 * cvT2));
 
         if (hT2 <= tiro2.raio2 + pers1.raio) {
+            tiro2.posX2 = 0;
+            tiro2.posY2 = 0;
             tiro2.visible2 = false;
+            JOptionPane.showMessageDialog(null, "Jogador AZUL abatido.");
         }
     }
 
