@@ -6,7 +6,7 @@ Paintball é um jogo que está sendo desenvolvido, em que dois jogadores control
 
 ## Gráficos do jogo
 
-![ImagemInicial](img/direita.gif)
+![TesteImagemOutRep](https://github.com/JoaoCarser/teste/blob/main/img/direita.gif)
 ![ImagemTiros](img/direita.gif)
 ![ImagemGameOver](img/direita.gif)
 
