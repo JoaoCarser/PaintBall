@@ -6,15 +6,15 @@ Paintball é um jogo que está sendo desenvolvido, em que dois jogadores control
 
 ## Gráficos do jogo
 
-###Start
+### Start
 ![Walking](https://github.com/JoaoCarser/assets/blob/main/PaintBall/PaintBallWalking.png)
-###Disparos
+### Disparos
 ![FirstShot](https://github.com/JoaoCarser/assets/blob/main/PaintBall/PaintBallFirstShot.png) 
-###Azul Ataca
+### Azul Ataca
 ![ShotBlue](https://github.com/JoaoCarser/assets/blob/main/PaintBall/PaintBallShotBlue.png)
-###Verde Ataca
+### Verde Ataca
 ![ShotGreen](https://github.com/JoaoCarser/assets/blob/main/PaintBall/PaintBallShotGreen.png)
-Fim de Jogo
+### Fim de Jogo
 ![GameOver](https://github.com/JoaoCarser/assets/blob/main/PaintBall/PaintBallGameOver.png)
 
 ## Tecnologias Utilizadas
